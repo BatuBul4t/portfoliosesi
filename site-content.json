@@ -1,0 +1,163 @@
+{
+  "heroImage": "p4r-menu-hero.png",
+  "player": {
+    "name": "ANDREW SMITH",
+    "role": "FOOLISH",
+    "level": "6💀",
+    "hp": "0451",
+    "sp": "XD",
+    "money": "???"
+  },
+  "activities": [
+    {
+      "id": "matematica",
+      "label": "MATEMÁTICA",
+      "jp": "学業",
+      "activities": [
+        {
+          "id": "pholder1",
+          "title": "pholder1",
+          "location": "seila",
+          "description": "pholder1.",
+          "gain": "CONHECIMENTO +2",
+          "image": "activities/academics.png"
+        },
+        {
+          "id": "pholder2",
+          "title": "pholder2",
+          "location": "sla",
+          "description": "pholder",
+          "gain": "CONHECIMENTO +1",
+          "image": "activities/academics.png"
+        },
+        {
+          "id": "pholder3",
+          "title": "pholder3",
+          "location": "sla",
+          "description": "pholder3",
+          "gain": "CONHECIMENTO +2",
+          "image": "activities/academics.png"
+        }
+      ]
+    },
+    {
+      "id": "humanas",
+      "label": "HUMANAS",
+      "jp": "運動部",
+      "activities": [
+        {
+          "id": "pholder4",
+          "title": "pholder4",
+          "location": "sla",
+          "description": "pholder4",
+          "gain": "DILIGÊNCIA +1",
+          "image": "activities/pholder4.png"
+        },
+        {
+          "id": "pholder5",
+          "title": "pholder5",
+          "location": "sla",
+          "description": "pholder5",
+          "gain": "CORAGEM +1",
+          "image": "activities/pholder5.png"
+        },
+        {
+          "id": "pholder6",
+          "title": "pholder6",
+          "location": "sla",
+          "description": "pholder6",
+          "gain": "HP MÁX. +5",
+          "image": "activities/pholder6.png"
+        }
+      ]
+    },
+    {
+      "id": "natureza",
+      "label": "NATUREZA",
+      "jp": "文化部",
+      "activities": [
+        {
+          "id": "pholder7",
+          "title": "pholder7",
+          "location": "Sla",
+          "description": "pholder7",
+          "gain": "EXPRESSÃO +1",
+          "image": "activities/pholder7.png"
+        },
+        {
+          "id": "pholder8",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "CORAGEM +1",
+          "image": "activities/pholder8.png"
+        },
+        {
+          "id": "pholder9",
+          "title": "pholder9",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "COMPREENSÃO +1",
+          "image": "activities/pholder9.png"
+        }
+      ]
+    },
+    {
+      "id": "linguagem",
+      "label": "LINGUAGEM",
+      "jp": "アルバイト",
+      "activities": [
+        {
+          "id": "pholder10",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "pholder",
+          "image": "activities/pholder10.png"
+        },
+        {
+          "id": "pholder11",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder.",
+          "gain": "DILIGÊNCIA +1",
+          "image": "activities/pholder11.png"
+        },
+        {
+          "id": "pholder12",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "EXPRESSÃO +1",
+          "image": "activities/pholder12.png"
+        }
+      ]
+    }
+  ],
+  "musicTabs": [
+    {
+      "id": "daily",
+      "label": "DAILY",
+      "tracks": [
+        { "title": "Specialist", "subtitle": "Aura++ 🥶", "src": "music/specialist.mp3" },
+        { "title": "Country Road", "subtitle": "Inaba Evening", "src": "music/daily-02.mp3" }
+      ]
+    },
+    {
+      "id": "mystery",
+      "label": "MYSTERY",
+      "tracks": [
+        { "title": "Fogline", "subtitle": "Investigation Theme", "src": "music/mystery-01.mp3" },
+        { "title": "Midnight Signal", "subtitle": "TV World", "src": "music/mystery-02.mp3" }
+      ]
+    },
+    {
+      "id": "action",
+      "label": "ACTION",
+      "tracks": [
+        { "title": "First Strike", "subtitle": "Battle Edit", "src": "music/action-01.mp3" },
+        { "title": "Reach the Truth", "subtitle": "Climax Edit", "src": "music/action-02.mp3" }
+      ]
+    }
+  ]
+}
