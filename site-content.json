@@ -43,7 +43,7 @@
     {
       "id": "humanas",
       "label": "HUMANAS",
-      "jp": "運動部",
+      "jp": "人文科学",
       "activities": [
         {
           "id": "pholder4",
@@ -74,7 +74,7 @@
     {
       "id": "natureza",
       "label": "NATUREZA",
-      "jp": "文化部",
+      "jp": "自然科学",
       "activities": [
         {
           "id": "pholder7",
@@ -105,7 +105,7 @@
     {
       "id": "linguagem",
       "label": "LINGUAGEM",
-      "jp": "アルバイト",
+      "jp": "言語",
       "activities": [
         {
           "id": "pholder10",
@@ -132,7 +132,38 @@
           "image": "activities/pholder12.png"
         }
       ]
-    }
+    },
+	{
+      "id": "senai",
+      "label": "SENAI",
+      "jp": "仕事",
+      "activities": [
+        {
+          "id": "pholder13",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "pholder",
+          "image": "activities/pholder13.png"
+        },
+        {
+          "id": "pholder14",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder.",
+          "gain": "DILIGÊNCIA +1",
+          "image": "activities/pholder14.png"
+        },
+        {
+          "id": "pholder15",
+          "title": "pholder",
+          "location": "pholder",
+          "description": "pholder",
+          "gain": "EXPRESSÃO +1",
+          "image": "activities/pholder15.png"
+        }
+      ]
+    },
   ],
   "musicTabs": [
     {
@@ -140,23 +171,23 @@
       "label": "DAILY",
       "tracks": [
         { "title": "Specialist", "subtitle": "Aura++ 🥶", "src": "music/specialist.mp3" },
-        { "title": "Country Road", "subtitle": "Inaba Evening", "src": "music/daily-02.mp3" }
+        { "title": "Heartbeat Heartbreak", "subtitle": "🥵", "src": "music/heartbeatheartbreak.mp3" }
       ]
     },
     {
       "id": "mystery",
       "label": "MYSTERY",
       "tracks": [
-        { "title": "Fogline", "subtitle": "Investigation Theme", "src": "music/mystery-01.mp3" },
-        { "title": "Midnight Signal", "subtitle": "TV World", "src": "music/mystery-02.mp3" }
+        { "title": "?", "subtitle": "?", "src": "music/mystery-01.mp3" },
+        { "title": "?", "subtitle": "?", "src": "music/mystery-02.mp3" }
       ]
     },
     {
       "id": "action",
       "label": "ACTION",
       "tracks": [
-        { "title": "First Strike", "subtitle": "Battle Edit", "src": "music/action-01.mp3" },
-        { "title": "Reach the Truth", "subtitle": "Climax Edit", "src": "music/action-02.mp3" }
+        { "title": "Reach Out To The Truth", "subtitle": "Ativar mega brain", "src": "music/reachouttruth.mp3" },
+        { "title": "Your affection", "subtitle": "🐶", "src": "music/youraffection.mp3" }
       ]
     }
   ]
